@@ -1,0 +1,11 @@
+#  @bekbrace
+#  FARMSTACK Tutorial - Sunday 13.06.2021
+
+# Fastening light Python Framework for API build
+fastapi == 0.65.1
+
+# Fast ASGI server implementation which helps in the interaction between your application and the backend 
+uvicorn == 0.14.0
+
+# Motor is a full-featured, non-blocking IO MongoDB driver for Python 
+motor == 2.4.0
