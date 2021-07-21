@@ -1,5 +1,3 @@
-# Black Lives Matter 🖤
-
 # FARM-Stack-Course
 This is the FARM Stack course, where you are going to learn how to build an application from scratch using FASTAPI, React and mongoDB
 ----------------------------------------------------------
