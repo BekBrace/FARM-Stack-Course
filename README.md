@@ -15,7 +15,7 @@ the only difference is the FASAPI because React and MongoDB are the same in the 
 
 in MEAN we use Angular and NodeJs, and in MERN we use React and NodeJs.  
 
-FASTAPI is a modern and fast web framework for building APIs, created by Sebastien Ramirez, 
+FASTAPI is a modern and fast web framework for building APIs. 
 
 it uses ASGI which is the interface between your app and the server and the response time is lightening fast 
 
@@ -29,8 +29,4 @@ FASTAPI also has interactive API documentation, so it helps you testing the diff
 
 put and delete visually using Open API which is itself based on JSON schema.
 
-Please follow along in the video to get more details about the course.
-
 Thank you.
-BR,
-Bek
