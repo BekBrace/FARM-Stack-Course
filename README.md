@@ -1,5 +1,7 @@
+# FARM Stack Course #
 
-FARM Stack Course
+<br>
+
 Welcome to the FARM Stack course, where you'll embark on a journey to master the art of building robust applications from the ground up using FASTAPI, React, and MongoDB.
 
 Introduction
