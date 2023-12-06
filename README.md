@@ -2,7 +2,7 @@
 
 <br>
 
-![farm](https://github.com/BekBrace/FARM-Stack-Course/assets/60483846/0fac8512-ac01-4309-abf6-29e4e23bfb13 https://www.youtube.com/watch?v=oGwszbCH5Z4&t=628s)
+![farm](https://github.com/BekBrace/FARM-Stack-Course/assets/60483846/0fac8512-ac01-4309-abf6-29e4e23bfb13)
 
 https://www.youtube.com/watch?v=oGwszbCH5Z4&t=628s
 
