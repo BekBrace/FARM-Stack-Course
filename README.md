@@ -1,36 +1,33 @@
-<h1>FARM-Stack-Course</h1>
 
-This is the FARM Stack course, where you are going to learn how to build an application from scratch using FASTAPI, React and mongoDB
-----------------------------------------------------------
-<br/>
-FARM is an acronym which stands for FastAPI - React - MongoDB.
+FARM Stack Course
+Welcome to the FARM Stack course, where you'll embark on a journey to master the art of building robust applications from the ground up using FASTAPI, React, and MongoDB.
 
-WE are going to build our app using FASTAPI for the backend server, React for the frontend client, 
+Introduction
+FARM is an acronym representing FastAPI, React, and MongoDB. In this course, we'll leverage these cutting-edge technologies to create a full-fledged application. The stack is designed with a focus on speed, efficiency, and seamless data persistence.
 
-and MongoDB for the backend database server, so this is for data persistance.
+Technologies
+FastAPI (Backend Server): We'll harness the power of FastAPI to build a robust backend server. FastAPI, developed by Sebastien Ramirez, is a modern web framework that utilizes ASGI, offering lightning-fast response times. One notable advantage is its support for coroutines and concurrency without the need for importing the ASYNCIO module in Python.
 
-And in my opinion, FARM stack resembles the MEAN stack or the MERN stack,
+React (Frontend Client): The frontend client of our application will be developed using React. This powerful JavaScript library ensures a dynamic and responsive user interface, enhancing the overall user experience.
 
-the only difference is the FASAPI because React and MongoDB are the same in the three stacks, 
+MongoDB (Backend Database Server): MongoDB serves as our backend database server, providing seamless data persistence. This NoSQL database is a reliable choice for handling large volumes of data and ensuring efficient data retrieval.
 
-in MEAN we use Angular and NodeJs, and in MERN we use React and NodeJs.  
+Stack Comparison
+The FARM stack shares similarities with popular stacks like MEAN and MERN. However, it distinguishes itself with the integration of FastAPI, replacing traditional choices like Angular or NodeJs. In MEAN, Angular and NodeJs are utilized, while MERN leverages React and NodeJs. The common thread among these stacks is the combination of React and MongoDB.
 
-FASTAPI is a modern and fast web framework for building APIs, created by Sebastien Ramirez, 
+FastAPI Highlights
+FastAPI brings several advantages to the table:
 
-it uses ASGI which is the interface between your app and the server and the response time is lightening fast 
+Performance: Thanks to ASGI implementation, FastAPI ensures lightning-fast response times, surpassing traditional frameworks like Express (used in MEAN and MERN stacks).
 
-and this is one of the big advantages of having ASGI server implementaion on your side.
+Concurrency: FastAPI supports coroutines and concurrency without the need for importing the ASYNCIO module in Python.
 
-Also, one if its big features that it supports coroutines and concurency without the need to import the ASYNCIO module in Python, 
+Interactive API Documentation: FastAPI simplifies testing of various HTTP requests (GET, POST, PUT, DELETE) through interactive API documentation. Leveraging OpenAPI, which is based on JSON schema, this feature allows visual testing of different API endpoints.
 
-and in a way it's faster than Express which is NodeJs framework ( and Express is E in the MEAN and MERN stacks ).
+Course Details
+For an in-depth exploration of the FARM Stack and to gain a comprehensive understanding of each component, please follow along in the video. Detailed explanations and hands-on demonstrations will guide you through the intricacies of building a robust application using FastAPI, React, and MongoDB.
 
-FASTAPI also has interactive API documentation, so it helps you testing the different HTTP requests like get post, 
+Thank you for joining us on this learning journey.
 
-put and delete visually using Open API which is itself based on JSON schema.
-
-Please follow along in the video to get more details about the course.
-
-Thank you.
-BR,
+Best Regards,
 Bek
