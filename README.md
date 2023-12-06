@@ -1,9 +1,10 @@
 # FARM Stack Course #
 
 <br>
-https://www.youtube.com/watch?v=oGwszbCH5Z4&t=628s
 
 ![farm](https://github.com/BekBrace/FARM-Stack-Course/assets/60483846/0fac8512-ac01-4309-abf6-29e4e23bfb13)
+
+https://www.youtube.com/watch?v=oGwszbCH5Z4&t=628s
 
 Welcome to the FARM Stack course, where you'll embark on a journey to master the art of building robust applications from the ground up using FASTAPI, React, and MongoDB.
 
