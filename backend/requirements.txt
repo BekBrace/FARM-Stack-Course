@@ -9,3 +9,6 @@ uvicorn == 0.14.0
 
 # Motor is a full-featured, non-blocking IO MongoDB driver for Python 
 motor == 2.4.0
+
+# dotenv
+python-dotenv == 1.0.1
