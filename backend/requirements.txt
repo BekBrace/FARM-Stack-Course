@@ -12,3 +12,6 @@ motor == 2.4.0
 
 # dotenv
 python-dotenv == 1.0.1
+
+# Pymongo srv
+pymongo[srv] == 3.11.4
