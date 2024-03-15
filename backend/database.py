@@ -1,10 +1,13 @@
 #  @bekbrace
 #  FARMSTACK Tutorial - Sunday 13.06.2021
 
+import os
+from dotenv import load_dotenv
 import motor.motor_asyncio
 from model import Todo
 
-client = motor.motor_asyncio.AsyncIOMotorClient('mongodb://localhost:27017/')
+load_dotenv()
+client = motor.motor_asyncio.AsyncIOMotorClient(os.environ["MONGODB_URI"])
 database = client.TodoList
 collection = database.todo
 
